@@ -1,7 +1,7 @@
-package dev.macindoe.ktor
+package dev.macindoe.quiz
 
-import dev.macindoe.ktor.model.Question
-import dev.macindoe.ktor.model.Quiz
+import dev.macindoe.quiz.model.Question
+import dev.macindoe.quiz.model.Quiz
 
 interface QuizRepository {
     fun getQuiz(quizId: String): Quiz

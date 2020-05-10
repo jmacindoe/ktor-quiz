@@ -1,4 +1,4 @@
-package dev.macindoe.ktor.model
+package dev.macindoe.quiz.model
 
 data class Quiz(
     val id: String,

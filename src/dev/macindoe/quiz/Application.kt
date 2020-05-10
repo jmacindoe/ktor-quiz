@@ -1,4 +1,4 @@
-package dev.macindoe.ktor
+package dev.macindoe.quiz
 
 import com.fasterxml.jackson.databind.SerializationFeature
 import io.ktor.application.*
